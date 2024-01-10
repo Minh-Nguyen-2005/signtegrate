@@ -1,4 +1,4 @@
-SIGNTEGRATE
+# SIGNTEGRATE
 
 My baby project
 Vietnamese Sign Language recognition system
